@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - p-earth</name>
+  <icon>p-earth.png</icon>
+  <connections>
+    <point x="12" y="14"/>
+    <point x="13" y="14"/>
+    <point x="14" y="14"/>
+    <point x="14" y="15"/>
+    <point x="14" y="16"/>
+    <point x="13" y="16"/>
+    <point x="12" y="16"/>
+    <point x="12" y="15"/>
+    <point x="13" y="15"/>
+    <point x="13" y="14.1325"/>
+    <point x="13" y="14.9325"/>
+    <point x="13" y="14.5325"/>
+    <point x="12.4" y="14.9325"/>
+    <point x="13.6" y="14.9325"/>
+    <point x="12.6" y="15.1325"/>
+    <point x="13.4" y="15.1325"/>
+    <point x="13" y="15.1325"/>
+    <point x="12.8" y="15.3325"/>
+    <point x="13.2" y="15.3325"/>
+    <point x="13" y="15.3325"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="12" y="14" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="13" y1="14.1325" x2="13" y2="14.9325"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="12.4" y1="14.9325" x2="13.6" y2="14.9325"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="12.6" y1="15.1325" x2="13.4" y2="15.1325"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="12.8" y1="15.3325" x2="13.2" y2="15.3325"/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:middlefont-family: sans; font-style: normal; font-weight: normal" x="13" y="15.9213" font-size="0.8" textLength="0.79">PE</svg:text>
+  </svg:svg>
+</shape>

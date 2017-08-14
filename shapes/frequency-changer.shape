@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - frequency-changer</name>
+  <icon>frequency-changer.png</icon>
+  <connections>
+    <point x="18" y="17"/>
+    <point x="19" y="17"/>
+    <point x="20" y="17"/>
+    <point x="20" y="18"/>
+    <point x="20" y="19"/>
+    <point x="19" y="19"/>
+    <point x="18" y="19"/>
+    <point x="18" y="18"/>
+    <point x="19" y="18"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="18" y="17" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="18" y1="19" x2="20" y2="17"/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: URW Chancery L; font-style: italic; font-weight: 500" x="18.2561" y="17.6111" font-size="0.8" textLength="0.3475">f </svg:text>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: URW Chancery L; font-style: italic; font-weight: 500" x="19.3307" y="18.4916" font-size="0.8" textLength="0.3475">f </svg:text>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: URW Chancery L; font-style: italic; font-weight: 500" x="18.4168" y="17.8681" font-size="0.529167" textLength="0.1875">1</svg:text>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: URW Chancery L; font-style: italic; font-weight: 500" x="19.5144" y="18.7716" font-size="0.529167" textLength="0.28">2 </svg:text>
+  </svg:svg>
+</shape>

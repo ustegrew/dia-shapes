@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - frequency-multiplier</name>
+  <icon>frequency-multiplier.png</icon>
+  <connections>
+    <point x="15.5" y="16.5"/>
+    <point x="16.5" y="16.5"/>
+    <point x="17.5" y="16.5"/>
+    <point x="17.5" y="17.5"/>
+    <point x="17.5" y="18.5"/>
+    <point x="16.5" y="18.5"/>
+    <point x="15.5" y="18.5"/>
+    <point x="15.5" y="17.5"/>
+    <point x="16.5" y="17.5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="15.5" y="16.5" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="15.5" y1="18.5" x2="17.5" y2="16.5"/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: URW Chancery L; font-style: italic; font-weight: 500" x="15.7981" y="17.2162" font-size="0.8" textLength="0.3475">f </svg:text>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: URW Chancery L; font-style: italic; font-weight: 500" x="16.9" y="18.1" font-size="0.8" textLength="0.3475">f </svg:text>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: URW Chancery L; font-style: italic; font-weight: 500" x="16.5" y="18.1" font-size="0.8" textLength="0.335">n</svg:text>
+  </svg:svg>
+</shape>

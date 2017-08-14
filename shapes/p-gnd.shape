@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - p-gnd</name>
+  <icon>p-gnd.png</icon>
+  <connections>
+    <point x="18" y="17"/>
+    <point x="19" y="17"/>
+    <point x="20" y="17"/>
+    <point x="20" y="18"/>
+    <point x="20" y="19"/>
+    <point x="19" y="19"/>
+    <point x="18" y="19"/>
+    <point x="18" y="18"/>
+    <point x="19" y="18"/>
+    <point x="19" y="17.2232"/>
+    <point x="19" y="18.0232"/>
+    <point x="19" y="17.6232"/>
+    <point x="19.4" y="18.0232"/>
+    <point x="18.6" y="18.0232"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="18" y="17" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="19" y1="17.2232" x2="19" y2="18.0232"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.3; stroke: #000000" x1="19.4" y1="18.0232" x2="18.6" y2="18.0232"/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:middlefont-family: sans; font-style: normal; font-weight: normal" x="19" y="18.8212" font-size="0.8" textLength="1.4675">GND</svg:text>
+  </svg:svg>
+</shape>

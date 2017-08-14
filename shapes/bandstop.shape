@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - bandstop</name>
+  <icon>bandstop.png</icon>
+  <connections>
+    <point x="15.5" y="16.5"/>
+    <point x="16.5" y="16.5"/>
+    <point x="17.5" y="16.5"/>
+    <point x="17.5" y="17.5"/>
+    <point x="17.5" y="18.5"/>
+    <point x="16.5" y="18.5"/>
+    <point x="15.5" y="18.5"/>
+    <point x="15.5" y="17.5"/>
+    <point x="16.5" y="17.5"/>
+    <point x="16.6" y="17.2"/>
+    <point x="16.3" y="17.7"/>
+    <point x="16.45" y="17.45"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="15.5" y="16.5" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="15.5" y1="16.5" x2="15.5" y2="18.5"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="17.5" y1="16.5" x2="17.5" y2="18.5"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" d="M 15.7 17 C 16.5,16.5 16.5,17.4 17.2,17"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" d="M 15.7 17.5 C 16.5,17 16.5,17.9 17.2,17.5"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" d="M 15.7 18 C 16.5,17.5 16.5,18.4 17.2,18"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="16.6" y1="17.2" x2="16.3" y2="17.7"/>
+  </svg:svg>
+</shape>

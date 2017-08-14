@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - monostable</name>
+  <icon>monostable.png</icon>
+  <connections>
+    <point x="15.5" y="16.5"/>
+    <point x="16.5" y="16.5"/>
+    <point x="17.5" y="16.5"/>
+    <point x="17.5" y="17.5"/>
+    <point x="17.5" y="18.5"/>
+    <point x="16.5" y="18.5"/>
+    <point x="15.5" y="18.5"/>
+    <point x="15.5" y="17.5"/>
+    <point x="16.5" y="17.5"/>
+    <point x="15.7" y="17.8"/>
+    <point x="16" y="17.8"/>
+    <point x="16" y="17.4"/>
+    <point x="16.4" y="17.4"/>
+    <point x="16.4" y="17.8"/>
+    <point x="17.3" y="17.8"/>
+    <point x="15.85" y="17.8"/>
+    <point x="16" y="17.6"/>
+    <point x="16.2" y="17.4"/>
+    <point x="16.4" y="17.6"/>
+    <point x="16.85" y="17.8"/>
+    <point x="17.5" y="18.1"/>
+    <point x="17.5" y="17.9"/>
+    <point x="17.4" y="18"/>
+    <point x="17.6" y="18"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="15.5" y="16.5" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="15.5" y1="16.5" x2="15.5" y2="18.5"/>
+    <svg:polyline style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" points="15.7,17.8 16,17.8 16,17.4 16.4,17.4 16.4,17.8 17.3,17.8 "/>
+    <svg:path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 15.5 16.7 L 16,17 L 15.5,17.3 L 15.5,16.7z"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" d="M 15.5 16.7 L 16,17 L 15.5,17.3 L 15.5,16.7"/>
+    <svg:ellipse style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" cx="17.5" cy="18" rx="0.1" ry="0.1"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="17.5" y1="16.5" x2="17.5" y2="18.5"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - combiner</name>
+  <icon>combiner.png</icon>
+  <connections>
+    <point x="21" y="17"/>
+    <point x="22" y="17"/>
+    <point x="23" y="17"/>
+    <point x="23" y="18"/>
+    <point x="23" y="19"/>
+    <point x="22" y="19"/>
+    <point x="21" y="19"/>
+    <point x="21" y="18"/>
+    <point x="22" y="18"/>
+    <point x="22" y="17.2"/>
+    <point x="22" y="18.8"/>
+    <point x="21.6" y="17.2"/>
+    <point x="21.8" y="17.2"/>
+    <point x="21.6" y="18"/>
+    <point x="21.8" y="18"/>
+    <point x="21.6" y="18.8"/>
+    <point x="21.8" y="18.8"/>
+    <point x="21.6" y="17.6"/>
+    <point x="22" y="17.6"/>
+    <point x="21.8" y="17.6"/>
+    <point x="21.6" y="18.42"/>
+    <point x="22" y="18.42"/>
+    <point x="21.8" y="18.42"/>
+    <point x="22.4" y="18"/>
+    <point x="22.2" y="18"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="21" y="17" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="21" y1="17" x2="21" y2="19"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.2; stroke-linecap: round; stroke: #000000" x1="22" y1="17.2" x2="22" y2="18.8"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="21.6" y1="17.2" x2="22" y2="17.2"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="21.6" y1="18" x2="22" y2="18"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="21.6" y1="18.8" x2="22" y2="18.8"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="21.6" y1="17.6" x2="22" y2="17.6"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="21.6" y1="18.42" x2="22" y2="18.42"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke: #000000" x1="22" y1="18" x2="22.4" y2="18"/>
+  </svg:svg>
+</shape>

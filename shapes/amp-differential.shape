@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - amp-differential</name>
+  <icon>amp-differential.png</icon>
+  <connections>
+    <point x="15.5" y="16.5"/>
+    <point x="16.5" y="16.5"/>
+    <point x="17.5" y="16.5"/>
+    <point x="17.5" y="17.5"/>
+    <point x="17.5" y="18.5"/>
+    <point x="16.5" y="18.5"/>
+    <point x="15.5" y="18.5"/>
+    <point x="15.5" y="17.5"/>
+    <point x="16.5" y="17.5"/>
+    <point x="16.3" y="17"/>
+    <point x="17.3" y="17.5"/>
+    <point x="16.3" y="18"/>
+    <point x="16.8" y="17.25"/>
+    <point x="16.8" y="17.75"/>
+    <point x="15.95" y="17.3"/>
+    <point x="16.3" y="17.3"/>
+    <point x="16.125" y="17.3"/>
+    <point x="16.05" y="17.7"/>
+    <point x="16.3" y="17.7"/>
+    <point x="16.175" y="17.7"/>
+    <point x="16" y="17"/>
+    <point x="16" y="17.35"/>
+    <point x="16" y="17.175"/>
+    <point x="16" y="17.65"/>
+    <point x="16" y="18"/>
+    <point x="16" y="17.825"/>
+    <point x="15.8" y="17"/>
+    <point x="16.05" y="17"/>
+    <point x="15.925" y="17"/>
+    <point x="15.8" y="18"/>
+    <point x="16.05" y="18"/>
+    <point x="15.925" y="18"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="15.5" y="16.5" width="2" height="2" rx="0" ry="0"/>
+    <svg:polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" points="16.3,17 17.3,17.5 16.3,18 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="15.95" y1="17.3" x2="16.3" y2="17.3"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="16.05" y1="17.7" x2="16.3" y2="17.7"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="15.5" y1="16.5" x2="15.5" y2="18.5"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="16" y1="17" x2="16" y2="17.35"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="16" y1="17.65" x2="16" y2="18"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="15.8" y1="17" x2="16.05" y2="17"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="15.8" y1="18" x2="16.05" y2="18"/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:middlefont-family: sans; font-style: normal; font-weight: 700" x="15.66" y="17.0975" font-size="0.352778" textLength="0.2375">+</svg:text>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:middlefont-family: sans; font-style: normal; font-weight: 700" x="15.66" y="18.1275" font-size="0.529167" textLength="0.175">-</svg:text>
+  </svg:svg>
+</shape>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<!--Dia-Version: 0.97+git-->
+<!--File: /home/peter/.dia/sheets/Electronics_Blocks.sheet-->
+<!--Date: Wed Jun 21 18:49:09 2017-->
+<!--For: peter-->
+
+<name>Electronics_Blocks</name>
+<description>Electronic devices</description>
+<contents>
+<!--add shapes here-->
+<object name="blocks - amp">
+<description>Amplifier</description></object><object name="blocks - amp-differential">
+<description>Amplifier, differential</description></object><object name="blocks - amp-bi-directional">
+<description>Amplifier, bi-directional</description></object><object name="blocks - agc">
+<description>Automatic gain control</description></object><object name="blocks - inverter">
+<description>Signal inverter</description></object><object name="blocks - combiner">
+<description>Combiner</description></object><object name="blocks - detector">
+<description>Detector</description></object><object name="blocks - mixer">
+<description>Mixer</description></object><object name="blocks - oscillator">
+<description>Oscillator</description></object><object name="blocks - square-wave-generator">
+<description>Square wave generator</description></object><object name="blocks - monostable">
+<description>Monostable</description></object><object name="blocks - pulse-former">
+<description>Pulse former (anything to square)</description></object><object name="blocks - schmitt-trigger">
+<description>Schmitt trigger</description></object><object name="blocks - switch">
+<description>Switch</description></object><object name="blocks - highpass">
+<description>High pass</description></object><object name="blocks - lowpass">
+<description>Low pass</description></object><object name="blocks - bandpass">
+<description>Band pass</description></object><object name="blocks - bandstop">
+<description>Band stop</description></object><object name="blocks - ac-ac">
+<description>AC to AC converter</description></object><object name="blocks - ac-dc">
+<description>AC to DC converter</description></object><object name="blocks - dc-ac">
+<description>DC to AC converter</description></object><object name="blocks - dc-dc">
+<description>DC to DC converter</description></object><object name="blocks - dac">
+<description>Digital to analog converter</description></object><object name="blocks - adc">
+<description>Analog to digital converter</description></object><object name="blocks - divider-n">
+<description>Divider by n</description></object><object name="blocks - frequency-changer">
+<description>Frequency changer</description></object><object name="blocks - frequency-divider">
+<description>Frequency divider</description></object><object name="blocks - frequency-multiplier">
+<description>Frequency multiplier</description></object><object name="blocks - converter">
+<description>Converter, generic</description></object><object name="blocks - humidity-sensor">
+<description>Humidity sensor</description></object><object name="blocks - temperature-sensor">
+<description>Temperature sensor</description></object><object name="blocks - transformer_1-1">
+<description>Transformer, 1-1</description></object><object name="blocks - transformer_1-2">
+<description>Transformer, 1-2</description></object><object name="blocks - transformer_2-2">
+<description>Transformer, 2-2</description></object><object name="blocks - p-gnd">
+<description>Potential: Ground</description></object><object name="blocks - p-earth">
+<description>Potential: Earth</description></object><object name="blocks - surge-protector">
+<description>Surge protector</description></object><object name="blocks - empty">
+<description>Empty block</description></object></contents></sheet>

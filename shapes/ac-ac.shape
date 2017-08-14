@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>blocks - ac-ac</name>
+  <icon>ac-ac.png</icon>
+  <connections>
+    <point x="18" y="17"/>
+    <point x="20" y="19"/>
+    <point x="18" y="19"/>
+    <point x="18" y="18"/>
+    <point x="20" y="17"/>
+    <point x="20" y="18"/>
+    <point x="19" y="19"/>
+    <point x="19" y="17"/>
+    <point x="18" y="19"/>
+    <point x="20" y="17"/>
+    <point x="19" y="18"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="18" y="17" width="2" height="2"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="18" y="17" width="2" height="2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="18" y1="19" x2="20" y2="17"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 18.2 17.5 C 18.7,17.9 18.6,17.1 19.1,17.5"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 18.9 18.6 C 19.4,19 19.3,18.2 19.8,18.6"/>
+  </svg:svg>
+</shape>

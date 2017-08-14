@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>blocks - pulse-former</name>
+  <icon>pulse-former.png</icon>
+  <connections>
+    <point x="21" y="17"/>
+    <point x="22" y="17"/>
+    <point x="23" y="17"/>
+    <point x="23" y="18"/>
+    <point x="23" y="19"/>
+    <point x="22" y="19"/>
+    <point x="21" y="19"/>
+    <point x="21" y="18"/>
+    <point x="22" y="18"/>
+    <point x="21.9" y="17.7"/>
+    <point x="21.8" y="17.7"/>
+    <point x="21.7" y="17.3"/>
+    <point x="21.4" y="17.3"/>
+    <point x="21.3" y="17.7"/>
+    <point x="21.2" y="17.7"/>
+    <point x="21.85" y="17.7"/>
+    <point x="21.75" y="17.5"/>
+    <point x="21.55" y="17.3"/>
+    <point x="21.35" y="17.5"/>
+    <point x="21.25" y="17.7"/>
+    <point x="22.7" y="18.7"/>
+    <point x="22.6" y="18.7"/>
+    <point x="22.6" y="18.3"/>
+    <point x="22.2" y="18.3"/>
+    <point x="22.2" y="18.7"/>
+    <point x="22.1" y="18.7"/>
+    <point x="22.65" y="18.7"/>
+    <point x="22.6" y="18.5"/>
+    <point x="22.4" y="18.3"/>
+    <point x="22.2" y="18.5"/>
+    <point x="22.15" y="18.7"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x="21" y="17" width="2" height="2" rx="0" ry="0"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" x1="23" y1="17" x2="21" y2="19"/>
+    <svg:polyline style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke-linejoin: round; stroke: #000000" points="21.9,17.7 21.8,17.7 21.7,17.3 21.4,17.3 21.3,17.7 21.2,17.7 "/>
+    <svg:polyline style="fill: none; stroke-opacity: 1; stroke-width: 0.1; stroke-linecap: round; stroke-linejoin: round; stroke: #000000" points="22.7,18.7 22.6,18.7 22.6,18.3 22.2,18.3 22.2,18.7 22.1,18.7 "/>
+  </svg:svg>
+</shape>
